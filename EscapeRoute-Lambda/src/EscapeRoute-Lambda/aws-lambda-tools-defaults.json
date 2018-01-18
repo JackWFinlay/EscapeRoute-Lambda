@@ -15,5 +15,5 @@
   "function-runtime": "dotnetcore2.0",
   "function-memory-size": 128,
   "function-timeout": 30,
-  "function-handler": "EscapeRoute_Lambda::EscapeRoute_Lambda.Function::FunctionHandler"
+  "function-handler": "EscapeRoute-Lambda::EscapeRoute_Lambda.Function::FunctionHandler"
 }
